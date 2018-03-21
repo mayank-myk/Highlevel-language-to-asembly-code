@@ -1,0 +1,25 @@
+function hello(var a, var b){
+	a = a + b
+}
+
+function main(){
+	public var a = 3
+	var b =5
+	var b = 5 + b + 3 * 6
+	extern class
+	loop a!=b
+		a = 3+9
+
+	endloop
+
+	a = b+3
+	loop b>5
+
+	endloop
+	
+	if a>b
+		b = 3
+	endif
+
+	a = a + b
+}
